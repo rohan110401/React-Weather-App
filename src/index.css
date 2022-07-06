@@ -10,30 +10,30 @@ body
 }
 .app
 {
-  background-image:url("C:\Users\rohan\OneDrive\Desktop\React-Weather-App-main\Assets\world.gif");
+  background-image:url("./Assets/world.gif");
   background-size: cover;
   background-position: bottom;
   transition: 0.4s ease-out;
 }
 .app.clear
 {
-  background-image: url("C:\Users\rohan\OneDrive\Desktop\React-Weather-App-main\Assets\warm.jpg");
+  background-image: url("./Assets/warm.jpg");
 }
 .app.rain
 {
-  background-image: url("C:\Users\rohan\OneDrive\Desktop\React-Weather-App-main\Assets\rain.jpg");
+  background-image: url("./Assets/rain.jpg");
 }
 .app.mist
 {
-  background-image: url("C:\Users\rohan\OneDrive\Desktop\React-Weather-App-main\Assets\mist.jpg");
+  background-image: url("./Assets/mist.jpg");
 }
 .app.clouds
 {
-  background-image: url("C:\Users\rohan\OneDrive\Desktop\React-Weather-App-main\Assets\clouds.jpg");
+  background-image: url("./Assets/clouds.jpg");
 }
 .app.haze
 {
-  background-image: url("C:\Users\rohan\OneDrive\Desktop\React-Weather-App-main\Assets\haze.jpg");
+  background-image: url("./Assets/haze.jpg");
 }
 main
 {
